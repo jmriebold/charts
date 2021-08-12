@@ -3,9 +3,9 @@ entries:
   sqs-prometheus-exporter:
   - apiVersion: v2
     appVersion: 1.0.1
-    created: "2021-08-11T22:36:13.174046641-07:00"
+    created: "2021-08-11T22:46:07.255830204-07:00"
     description: Helm chart for the SQS Prometheus Exporter
-    digest: afc86e39d8e48e6cf244e77c4615b07e0d6f1eca0b20fd40efad84e417e81763
+    digest: 0f7dee031dc774018291ba2f9efc3b5809ca72d4d0862fd873a83799b4b833a7
     home: https://github.com/jmriebold/sqs-prometheus-exporter
     keywords:
     - prometheus
@@ -41,4 +41,4 @@ entries:
     urls:
     - https://jmriebold.github.io/charts/sqs-prometheus-exporter-1.0.0.tgz
     version: 1.0.0
-generated: "2021-08-11T22:36:13.17332872-07:00"
+generated: "2021-08-11T22:46:07.255167042-07:00"
