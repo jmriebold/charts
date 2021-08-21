@@ -3,6 +3,28 @@ entries:
   sqs-prometheus-exporter:
   - apiVersion: v2
     appVersion: 1.0.3
+    created: "2021-08-21T12:02:13.146428797-07:00"
+    description: Helm chart for the SQS Prometheus Exporter
+    digest: 267a9192c49456cb8a5f4247ee36fe1168a8eab8a17662b41bcfe5ae54994337
+    home: https://github.com/jmriebold/sqs-prometheus-exporter
+    keywords:
+    - prometheus
+    - prometheus-exporter
+    - monitoring
+    - metrics
+    - aws
+    - sqs
+    maintainers:
+    - email: jmriebold@gmail.com
+      name: John Riebold
+    name: sqs-prometheus-exporter
+    sources:
+    - https://github.com/jmriebold/sqs-prometheus-exporter
+    urls:
+    - https://jmriebold.github.io/charts/sqs-prometheus-exporter-1.1.2.tgz
+    version: 1.1.2
+  - apiVersion: v2
+    appVersion: 1.0.3
     created: "2021-08-21T11:55:07.116657729-07:00"
     description: Helm chart for the SQS Prometheus Exporter
     digest: 4db11e589b124e85ad593f42c8e32eb78eb59747c61de1d17b48cd860e9bca22
@@ -63,4 +85,4 @@ entries:
     urls:
     - https://jmriebold.github.io/charts/sqs-prometheus-exporter-1.0.0.tgz
     version: 1.0.0
-generated: "2021-08-21T11:55:07.114530035-07:00"
+generated: "2021-08-21T12:02:13.145348705-07:00"
