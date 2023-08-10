@@ -1,7 +1,1 @@
-# Charts
-
-A repository for Helm charts I've created.
-
-## Usage
-
-`helm repo add jmriebold https://jmriebold.github.io/charts`
+# Notice: this repo is deprecated. Please refer to the instructions in the [SQS Prometheus Exporter repo](https://github.com/jmriebold/sqs-prometheus-exporter) to migrate.
